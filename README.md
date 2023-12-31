@@ -11,6 +11,10 @@
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
 
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demko12&layout=compact)
+
+
 
 <!---
 demko12/demko12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
