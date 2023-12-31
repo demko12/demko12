@@ -1,7 +1,7 @@
 # Demir Mukovic
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DemirMukovic-blue)](https://www.linkedin.com/in/demir-mukovic-40a616254/)
-[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-orange)](https://www.yourwebsite.com)
+[![Instagram](https://img.shields.io/badge/Instagram-DemirMukovic-purple)](https://www.instagram.com/__dem1r/)
+[![Gmail](https://img.shields.io/badge/Gmail-YourEmail-red)](mailto:mukovicdemir37@gmail.com)
 
 ## 🛠️ Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
