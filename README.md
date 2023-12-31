@@ -1,5 +1,5 @@
 # Demir Mukovic
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-demir-mukovic-blue)](https://www.linkedin.com/in/demir-mukovic/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/demir-mukovic/)
 [![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-orange)](https://www.yourwebsite.com)
 
