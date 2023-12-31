@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @demko12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 
-#### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?demko12={demko12}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+![Demko12's GitHub stats](https://github-readme-stats.vercel.app/api?username=demko12&show_icons=true)
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
