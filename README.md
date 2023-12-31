@@ -6,7 +6,7 @@
 
 
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username={demko12}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?demko12={demko12}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
