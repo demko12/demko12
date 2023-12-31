@@ -1,25 +1,25 @@
 # Demir Mukovic
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DemirMukovic-blue)](https://www.linkedin.com/in/demir-mukovic-40a616254/)
+- 👋 Hi, I’m @demko12
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-DemirMukovic-blue)](https://www.linkedin.com/in/demir-mukovic-40a616254/)
 [![Instagram](https://img.shields.io/badge/Instagram-DemirMukovic-purple)](https://www.instagram.com/__dem1r/)
-[![Gmail](https://img.shields.io/badge/Gmail-YourEmail-red)](mailto:mukovicdemir37@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-DemirMukovic-red)](mailto:mukovicdemir37@gmail.com)
 
 ## 🛠️ Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-- 👋 Hi, I’m @demko12
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
 
-
+#
 ![Demko12's GitHub stats](https://github-readme-stats.vercel.app/api?username=demko12&show_icons=true&theme_transparent)
 
-
+#
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demko12&layout=compact)
 
