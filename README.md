@@ -1,9 +1,13 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://demko12.io)
 <h1 align="center">Hi 👋, I'm Demir Mukovic</h1>
 <h3 align="center">A passionate frontend developer from Montenegro</h3>
+<img align="right" alt="coding" width="300" src="https://marcofranssen.nl/images/951957866431d77793480aba8bb624da2f6b3fb2.gif">
 
 - 🌱 I’m currently learning **JavaScript**
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in **Web Development**
+- 💬 Ask me about **My Projects**
 - 📫 How to reach me **mukovicdemir37@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,10 +29,3 @@
 #
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demko12&layout=compact)
-
-
-
-<!---
-demko12/demko12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
