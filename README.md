@@ -2,13 +2,15 @@
 - 👋 Hi, I’m @demko12
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/LinkedIn-DemirMukovic-blue)](https://www.linkedin.com/in/demir-mukovic-40a616254/)
+- 💞️ I’m looking to collaborate on 
+- 🔗 Connect with me on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DemirMukovic-blue)](https://www.linkedin.com/in/demir-mukovic-40a616254/)
 [![Instagram](https://img.shields.io/badge/Instagram-DemirMukovic-purple)](https://www.instagram.com/__dem1r/)
 [![Gmail](https://img.shields.io/badge/Gmail-DemirMukovic-red)](mailto:mukovicdemir37@gmail.com)
 
 ## 🛠️ Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-61DAFB?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
