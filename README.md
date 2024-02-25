@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Demir</h1>
 <h3 align="center">A passionate frontend developer from Montenegro</h3>
 <br>
-<br>
-<img align="right" alt="coding" width="300"  src="https://marcofranssen.nl/images/951957866431d77793480aba8bb624da2f6b3fb2.gif">
-<br>
 
 
 - 🌱 I’m currently learning **JavaScript**
